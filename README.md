@@ -18,16 +18,13 @@ This course covers the following topics in "Mastering Ethereum: Building Smart C
 ||||||
 
 ## Prerequisite
-This course .
+TBS
 
 ## Requirements
 You need a Windows 10, Mac OSX, or Linux computer (optional charger) with at least 4GB (8GB+ is reommended) of memory and be able to install program and follow instruction to do works.
 
 ### BEFORE THE FIRST CLASS
-* You need to buy the textbook written by Andreas M. Antonopoulos and Gavin Wood: "[Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by Andreas M. Antonopoulos and Gavin Wood, O'Reilly, 2018](https://ethereumbook.info/)".
-* Download and install the following software:
-    * Python 3.6 or higher from [python.org](https://www.python.org/) website.
-    * We'll be using [Visual Studio Code](https://code.visualstudio.com/) for Windows, macOS, or Linux to edit your code.
+* You need to buy the textbook "[Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by Andreas M. Antonopoulos and Gavin Wood, O'Reilly, 2018](https://ethereumbook.info/)".
 
 ## Instructor: Chia James Chang
 Chia is currently a Senior Software Engineer at Microsoft before that he had also worked at other companies such as Yahoo!, Sun Microsystem, IBM/Rolm, and other start-ups. Chia has been enjoying in developing software for the past 30 plus years and having fun in voluntary teaching and promoting coding at the companies and non-profit organizations such as ROLF, ROLCA, CoderDojo for the past six years. Chia has MSCS and MBA degrees.
