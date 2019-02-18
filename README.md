@@ -1,21 +1,20 @@
 # Course Title: Mastering Ethereum Course
 
 ## Date and Place
-This is an eight week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!
+This is an 12-week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!
 
 ## Description
-**This course is based on Andreas M. Antonopoulos and Gavin Wood’s book, "[Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by Andreas M. Antonopoulos and Gavin Wood, O'Reilly, 2018]](https://ethereumbook.info/)".**
-
-This course is "for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains."
+**This course is based on Andreas M. Antonopoulos and Gavin Wood’s book, "[Mastering Ethereum: Building Smart Contracts and DApps by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)".** This course is "for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains."
 
 ## Objectives
 This course covers the following topics in "Mastering Ethereum: Building Smart Contracts and DApps" book:
 
-| Topics | Topics | Topics | Topics | Topics |
-|:------:|:------:|:------:|:------:|:------:|
-| 1. What Is Ethereum? | 2. Ethereum Basics | 3. Ethereum Clients | 4. Cryptography | 5. Wallets |
-| 6. Transactions | 7. Smart Contracts and Solidigy | 8. Smart Contracts and Vyper | 9. Smart Contract Security | 10. Tokens |
-| 11. Oracles | 12. Decentralized Applications (DApps) | 13. The Ethereum Virtual Machine | 14. Concensus | - |
+| Topics | Topics | Topics | Topics |
+|:------:|:------:|:------:|:------:|
+| 1. What Is Ethereum? | 2. Ethereum Basics | 3. Ethereum Clients | 4. Cryptography |
+| 5. Wallets | 6. Transactions | 7. Smart Contracts and Solidigy | 8. Smart Contracts and Vyper |
+| 9. Smart Contract Security | 10. Tokens | 11. Oracles | 12. Decentralized Applications (DApps) |
+| 13. The Ethereum Virtual Machine | 14. Concensus | - | - |
 ||||||
 
 ## Prerequisite
@@ -35,9 +34,8 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 
 ## Useful Links
 * [Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by Andreas M. Antonopoulos and Gavin Wood, O'Reilly, 2018](https://ethereumbook.info/)
-    * [Source Code Download](https://www.manning.com/books/the-quick-python-book-third-edition)
-* [Python.org website](https://www.python.org/)
-    ([Success Stories](https://www.python.org/about/success/))
-    ([PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/))
-    * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-    * [Learn Python](http://learnpython.org/)
+    * [Source Code Download](https://github.com/ethereumbook/ethereumbook)
+* [Ethereum Blockchain Platform website](https://ethereum.org/)
+    * [Ethereum@GitHub](https://github.com/ethereum)
+
+---
