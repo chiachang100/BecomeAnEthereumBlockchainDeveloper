@@ -1,4 +1,4 @@
-# Course Title: Building DApps with Ethereum
+# Course Title: Mastering Ethereum Course
 
 ## Date and Place
 This is an 12-week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!
