@@ -1,2 +1,2 @@
-# BuildingDAppsWithEthereum
-Build DApps with Ethereum
+# Course Title: Building Smart Contracts and DApps with Ethereum
+Building Smart Contracts and DApps with Ethereum.
