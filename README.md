@@ -4,10 +4,10 @@
 This is an 12-week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!
 
 ## Description
-**This course is based on Andreas M. Antonopoulos and Gavin Wood’s book, "[Mastering Ethereum: Building Smart Contracts and DApps by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)".** This course is "for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains."
+This course is based on Andreas M. Antonopoulos and Gavin Wood’s book, "[Mastering Ethereum: Building Smart Contracts and DApps, O'Reilly, 2018](https://ethereumbook.info/)". This course is "for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains."
 
 ## Objectives
-This course covers the following topics in "Mastering Ethereum: Building Smart Contracts and DApps" book:
+This course covers the following topics in "Mastering Ethereum: Building Smart Contracts and DApps" book. This course will teach you how smart contract blockchains work, how to use them, and how to develop smart contracts and decentralized applications with them.
 
 | Topics | Topics | Topics | Topics |
 |:------:|:------:|:------:|:------:|
@@ -18,7 +18,7 @@ This course covers the following topics in "Mastering Ethereum: Building Smart C
 ||||||
 
 ## Prerequisite
-TBS
+This course is mostly intended for coders who already have experience in one or more programming languages.
 
 ## Requirements
 You need a Windows 10, Mac OSX, or Linux computer (optional charger) with at least 4GB (8GB+ is reommended) of memory and be able to install program and follow instruction to do works.
