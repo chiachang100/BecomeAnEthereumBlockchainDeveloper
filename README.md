@@ -13,7 +13,7 @@ This course covers the following topics in "Mastering Ethereum: Building Smart C
 | Topics | Topics | Topics | Topics |
 |:------:|:------:|:------:|:------:|
 | 1. What Is Ethereum? | 2. Ethereum Basics | 3. Ethereum Clients | 4. Cryptography |
-| 5. Wallets | 6. Transactions | 7. Smart Contracts and Solidigy | 8. Smart Contracts and Vyper |
+| 5. Wallets | 6. Transactions | 7. Smart Contracts and Solidity | 8. Smart Contracts and Vyper |
 | 9. Smart Contract Security | 10. Tokens | 11. Oracles | 12. Decentralized Applications (DApps) |
 | 13. The Ethereum Virtual Machine | 14. Concensus | - | - |
 ||||||
