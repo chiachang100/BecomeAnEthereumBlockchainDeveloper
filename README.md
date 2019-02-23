@@ -38,6 +38,7 @@ You need a Windows 10, Mac OSX, or Linux computer (optional charger) with at lea
 * You need to buy the textbook "[Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by Andreas M. Antonopoulos and Gavin Wood, O'Reilly, 2018](https://ethereumbook.info/)".
 
 ## Instructor: Chia James Chang
+Chia is "Certified Blockchain Developer - Ethereum (CBDE)" by [Blockchain Training Alliance](https://blockchaintrainingalliance.com/products/cbde).
 Chia is currently a Senior Software Engineer at Microsoft before that he had also worked at other companies such as Yahoo!, Sun Microsystem, IBM/Rolm, and other start-ups. Chia has been enjoying in developing software for the past 30 plus years and having fun in voluntary teaching and promoting coding at the companies and non-profit organizations such as ROLF, ROLCA, CoderDojo for the past six years. Chia has MSCS and MBA degrees.
 
 ## Useful Links
@@ -49,6 +50,7 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 * [Become a Blockchain Developer with Ethereum and Solidity by Sebastien Arbogast and Said Eloudrhiri, Udemy (15H).](https://www.udemy.com/getting-started-with-ethereum-solidity-development/)
 * [Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider, Udemy (24H).](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 * [Pass The Certified Blockchain Developer Exam - Ethereum CBDE by Thomas Wiesner, Ravinder Deol, Udemy (5H).](https://www.udemy.com/ethereum-blockchain-certification/)
-
+* [Blockchain Training Alliance](https://blockchaintrainingalliance.com/products/cbde)
+    * Certified Blockchain Developer - Ethereum (CBDE)
 
 ---
