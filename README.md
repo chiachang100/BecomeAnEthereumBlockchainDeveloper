@@ -19,14 +19,14 @@ This course covers the following topics in "Mastering Ethereum: Building Smart C
 ||||||
 
 * The following tools will be covered and used in this course:
-    * Ethereum cliens (parity and go-ethereum)
-    * Solidity smart contract language
-    * Metamask Chrome extension
-    * Truffle 4 build and test framework
-    * Ganache Ethereum node emulator
-    * Rinkeby test network
-    * Visual Studio Code (text editor)
-    * GitHub source code repository
+    * Ethereum cliens ([parity ethereum](https://www.parity.io/ethereum/) and [go-ethereum](https://www.ethereum.org/))
+    * [Solidity](https://solidity.readthedocs.io/en/v0.5.4/) smart contract language
+    * [Metamask](https://metamask.io/) Chrome extension
+    * [Truffle 4](https://truffleframework.com/) build and test framework
+    * [Ganache Ethereum node emulator](https://truffleframework.com/ganache)
+    * [Rinkeby test network](https://www.rinkeby.io/#stats)
+    * [Visual Studio Code](https://code.visualstudio.com/) (text editor)
+    * [GitHub](https://github.com/) source code repository
 
 ## Prerequisite
 This course is mostly intended for coders who already have experience in one or more programming languages.
