@@ -18,6 +18,16 @@ This course covers the following topics in "Mastering Ethereum: Building Smart C
 | 13. The Ethereum Virtual Machine | 14. Concensus | - | - |
 ||||||
 
+* The following tools will be covered and used in this course:
+    * Ethereum cliens (parity and go-ethereum)
+    * Solidity smart contract language
+    * Metamask Chrome extension
+    * Truffle 4 build and test framework
+    * Ganache Ethereum node emulator
+    * Rinkeby test network
+    * Visual Studio Code (text editor)
+    * GitHub source code repository
+
 ## Prerequisite
 This course is mostly intended for coders who already have experience in one or more programming languages.
 
@@ -35,5 +45,10 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
     * [Source Code Download](https://github.com/ethereumbook/ethereumbook)
 * [Ethereum Blockchain Platform website](https://ethereum.org/)
     * [Ethereum@GitHub](https://github.com/ethereum)
+* [Ethereum Developer Masterclass: Build Real World Projects by Thomas Wiesner, Ravinder Deol, Udemy (10H).](https://www.udemy.com/ethereum-masterclass/)
+* [Become a Blockchain Developer with Ethereum and Solidity by Sebastien Arbogast and Said Eloudrhiri, Udemy (15H).](https://www.udemy.com/getting-started-with-ethereum-solidity-development/)
+* [Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider, Udemy (24H).](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
+* [Pass The Certified Blockchain Developer Exam - Ethereum CBDE by Thomas Wiesner, Ravinder Deol, Udemy (5H).](https://www.udemy.com/ethereum-blockchain-certification/)
+
 
 ---
