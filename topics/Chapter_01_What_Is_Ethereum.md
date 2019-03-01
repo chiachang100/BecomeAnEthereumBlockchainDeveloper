@@ -5,7 +5,7 @@ Source: [Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by A
 * Ethereum is often described as **"the world computer.”**
 
 ## Components of a Blockchain
-* eer-to-peer (P2P) network
+* Peer-to-peer (P2P) network
 * Transactions
 * Consensus rules
 * State machine

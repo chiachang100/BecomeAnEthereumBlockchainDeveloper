@@ -9,8 +9,8 @@ git pull
 popd
 
 @echo off
-git clone https://github.com/chiachang100/BuildingAppsWithPython.git
-pushd BuildingAppsWithPython
+git clone https://github.com/chiachang100/QuickPythonCourse.git
+pushd QuickPythonCourse
 git pull
 @echo on
 popd
