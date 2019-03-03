@@ -1,4 +1,4 @@
-# Course Title: Building DApps with Ethereum Blockchain
+# Course Title: Mastering Ethereum Blockchain
 This course is based on Andreas M. Antonopoulos and Gavin Wood’s book, "[Mastering Ethereum: Building Smart Contracts and DApps, O'Reilly, 2018](https://ethereumbook.info/)"
 
 ## Date and Place
