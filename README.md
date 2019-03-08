@@ -53,5 +53,7 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 * [Pass The Certified Blockchain Developer Exam - Ethereum CBDE by Thomas Wiesner, Ravinder Deol, Udemy (5H).](https://www.udemy.com/ethereum-blockchain-certification/)
 * [Blockchain Training Alliance](https://blockchaintrainingalliance.com/products/cbde)
     * Certified Blockchain Developer - Ethereum (CBDE)
+* [Bitcoin whitepaper: Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum whitepaper: Ethereum: The Ultimate Smart Contract and Decentralized Application Platform](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)
 
 ---
