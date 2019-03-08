@@ -49,6 +49,7 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 * [Ethereum Developer Masterclass: Build Real World Projects by Thomas Wiesner, Ravinder Deol, Udemy (10H).](https://www.udemy.com/ethereum-masterclass/)
 * [Become a Blockchain Developer with Ethereum and Solidity by Sebastien Arbogast and Said Eloudrhiri, Udemy (15H).](https://www.udemy.com/getting-started-with-ethereum-solidity-development/)
 * [Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider, Udemy (24H).](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
+   * [Source code @GitHub](https://github.com/StephenGrider/EthereumCasts)
 * [Pass The Certified Blockchain Developer Exam - Ethereum CBDE by Thomas Wiesner, Ravinder Deol, Udemy (5H).](https://www.udemy.com/ethereum-blockchain-certification/)
 * [Blockchain Training Alliance](https://blockchaintrainingalliance.com/products/cbde)
     * Certified Blockchain Developer - Ethereum (CBDE)
