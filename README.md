@@ -42,6 +42,8 @@ Chia is a "Certified Blockchain Developer - Ethereum (CBDE)" by [Blockchain Trai
 Chia is currently a Senior Software Engineer at Microsoft before that he had also worked at other companies such as Yahoo!, Sun Microsystem, IBM/Rolm, and other start-ups. Chia has been enjoying in developing software for the past 30 plus years and having fun in voluntary teaching and promoting coding at the companies and non-profit organizations such as ROLF, ROLCA, CoderDojo for the past six years. Chia has MSCS and MBA degrees.
 
 ## Useful Links
+* [Enterprise Ethereum Alliance](https://entethalliance.org/)
+* [EEA Enterprise Ethereum Architecture Stack](https://www.youtube.com/watch?v=fIkClTpYjgE&feature=youtu.be)
 * [Mastering Ethereum: Building Smart Contracts and DApps 1st Edition by Andreas M. Antonopoulos and Gavin Wood, O'Reilly, 2018](https://ethereumbook.info/)
     * [Source Code Download](https://github.com/ethereumbook/ethereumbook)
 * [Ethereum Blockchain Platform website](https://ethereum.org/)
@@ -57,3 +59,60 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 * [Ethereum whitepaper: Ethereum: The Ultimate Smart Contract and Decentralized Application Platform](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)
 
 ---
+## Getting Started - Ethereum Ecosystem
+
+* Angular
+
+* DApp
+
+* Ganache
+    * `npm install ganache-cli`
+
+* Geth: go-ethereum
+    * [go-ethereum @github](https://github.com/ethereum/go-ethereum#operating-a-private-network)
+    * [Download Geth](https://geth.ethereum.org/downloads/)
+    * [Go Ethereum](https://geth.ethereum.org/)
+
+* MetaMask
+
+* Mist
+
+* Pantheon
+    * macOS
+        * `brew tap pegasyseng/pantheon`
+        * `brew install pantheon`
+    * Windows
+        * `choco install pantheon`
+
+* Parity
+
+* Remix - The Web-Based Solidity IDE
+
+* Solidity
+
+* Truffle 5
+    * [Truffle Suite](https://truffleframework.com/truffle)
+    * `npm install -g truffle`
+
+* Web3
+
+* Webpack
+
+* Install NodeJS and the Node Package Manager (NPM)
+    * https://nodejs.org/en/download/
+* Install the windows-build-tools
+    * `npm install -g windows-build-tools`
+
+* Download the Genesis File form 
+    * `https://github.com/ethereum/go-ethereum#operating-a-private-network`
+
+## Running Ethereum
+* Start ganache-clie
+    * `ganache-cli -b 3`
+* Start Truffle
+    * `truffle migrate`
+    * `npm start`
+    * This opens an HTTP Server on http://localhost:4200/
+
+---
+
