@@ -63,8 +63,6 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 ---
 ## Getting Started - Ethereum Ecosystem
 
-* Angular
-
 * DApp
 
 * Ganache
@@ -92,7 +90,7 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 
 * Solidity
 
-* Truffle 5
+* Truffle
     * [Truffle Suite](https://truffleframework.com/truffle)
     * `npm install -g truffle`
 
