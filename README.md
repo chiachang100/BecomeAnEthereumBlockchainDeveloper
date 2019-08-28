@@ -19,7 +19,9 @@ This course covers the following topics in "Mastering Ethereum: Building Smart C
 ||||||
 
 * The following tools will be covered and used in this course:
-    * Ethereum cliens ([parity ethereum](https://www.parity.io/ethereum/) and [go-ethereum](https://www.ethereum.org/))
+    * Ethereum clients
+        * [parity ethereum](https://www.parity.io/ethereum/)
+        * [go-ethereum](https://www.ethereum.org/)
     * [Solidity](https://solidity.readthedocs.io/en/v0.5.4/) smart contract language
     * [Metamask](https://metamask.io/) Chrome extension
     * [Truffle](https://truffleframework.com/) build and test framework
